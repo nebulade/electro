@@ -1,0 +1,18 @@
+=======================
+    DMX transmitter
+=======================
+
+
+** Connector **
+
+XLR:
+ - 5pin  http://www.neutrik.us/NC5FBH-B
+          -> http://www.mouser.com/ProductDetail/Neutrik/NC3FBH2-B/?qs=sGAEpiMZZMv0W4pxf2HiV%252bb1wOKdn1J5DuoZRzwUCls%3d
+ - 3pin  http://www.neutrik.us/NC3FBH2-B
+          -> http://www.mouser.com/ProductDetail/Neutrik/NC3FBH2-B/?qs=sGAEpiMZZMtlK7eMQG%2fjCLkCNcYPzs3q
+
+RJ-45:
+   FRJAE614
+    -> http://www.mouser.com/ProductDetail/Amphenol/FRJAE614/?qs=%2fha2pyFaduga4jSyCrEaNK4eDaKWR8GZNvYnvypF%252bEw%3d
+
+
