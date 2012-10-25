@@ -2,6 +2,7 @@
     DMX transmitter
 =======================
 
+Use always surface mount if possible. Size 06, 03
 
 ** Connector **
 
