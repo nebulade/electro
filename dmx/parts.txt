@@ -16,3 +16,14 @@ RJ-45:
     -> http://www.mouser.com/ProductDetail/Amphenol/FRJAE614/?qs=%2fha2pyFaduga4jSyCrEaNK4eDaKWR8GZNvYnvypF%252bEw%3d
 
 
+MA04-2
+  - library con-lstb
+  Pins:
+      1. GND
+      2. RX
+      3. +3V
+      4. TX
+      5. GND
+      6. D
+      7. +5V / Vcc
+      8. -
